@@ -1,0 +1,16 @@
+PODS:
+  - KCJPodResfull (0.1.0)
+
+DEPENDENCIES:
+  - KCJPodResfull (from `../`)
+
+EXTERNAL SOURCES:
+  KCJPodResfull:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KCJPodResfull: ab2493b097693e0b5e998a44963b423ee356344b
+
+PODFILE CHECKSUM: aedadc97bac6914ddba13eebff60adb98d9f4680
+
+COCOAPODS: 1.10.1

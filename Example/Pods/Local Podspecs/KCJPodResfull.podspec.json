@@ -1,0 +1,22 @@
+{
+  "name": "KCJPodResfull",
+  "version": "0.1.0",
+  "summary": "A short description of KCJPodResfull.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Katherinecoto93@gmail.com/KCJPodResfull",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Katherinecoto93@gmail.com": "kcotojim@baccredomatic.com"
+  },
+  "source": {
+    "git": "https://github.com/Katherinecoto93@gmail.com/KCJPodResfull.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "KCJPodResfull/Classes/**/*"
+}

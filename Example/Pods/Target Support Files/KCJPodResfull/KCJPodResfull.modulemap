@@ -1,0 +1,6 @@
+framework module KCJPodResfull {
+  umbrella header "KCJPodResfull-umbrella.h"
+
+  export *
+  module * { export * }
+}

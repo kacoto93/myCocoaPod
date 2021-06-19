@@ -22,7 +22,7 @@ pod 'KCJPodResfull'
 
 ## Author
 
-Katherinecoto93@gmail.com, kcotojim@baccredomatic.com
+Katherinecoto93@gmail.com, Katherinecoto93@gmail.com
 
 ## License
 
