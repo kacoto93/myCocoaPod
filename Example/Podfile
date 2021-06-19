@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KCJPodResfull_Tests' do
+  pod 'KCJPodResfull', :path => '../'
+  
+  
+end
